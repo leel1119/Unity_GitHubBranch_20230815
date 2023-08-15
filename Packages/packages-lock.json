@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.leo.scenemanager": {
+      "version": "https://github.com/leel1119/com.Leo.sceneManager.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "17ab48064e0df4692565f435d5de08ff9209213f"
+    },
     "com.unity.2d.animation": {
       "version": "9.0.3",
       "depth": 1,
